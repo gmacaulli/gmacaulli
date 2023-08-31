@@ -1,8 +1,5 @@
 ### Olá! Sou o Gustavo 👋
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando JavaScript
-
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=gmacaulli)](https://github.com/gmacaulli/github-readme-stats)
 
 <div style="display: inline_block"><br>
